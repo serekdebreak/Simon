@@ -6,15 +6,14 @@ Homework:
 Summary: 
 type: class
 ---
-
-
+ 
 ##### All classes
 ```dataview
 Table summary, homework 
 WHERE contains(file.name, split(this.file.name, " ")[0])
 sort created asc
 ```
-
+Hello!
 ---
 
 @0 🚧
